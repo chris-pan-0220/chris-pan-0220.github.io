@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://chris-0220-pan.github.io"
+baseurl = "https://chris-pan-0220.github.io"
 languageCode = "zh-tw"
 paginate = 5
 title = "創客群的家"
