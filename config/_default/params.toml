@@ -19,7 +19,7 @@ subtitle = "哈囉👋，我們是科技專案創客群，一群喜歡動手做s
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/8.png"
 
 [article]
 math = false
